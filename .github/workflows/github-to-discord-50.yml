@@ -15,6 +15,6 @@ jobs:
           color: "2105893"
           username: "Ducky's Duck Posting"
           avatar_url: "https://i.imgur.com/SjfLb7p.png"
-          content: "||<@955853036327141536>||"
+          content: "||<@&955853036327141536>||"
           footer_title: "Changelog"
           reduce_headings: true
