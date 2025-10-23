@@ -8,6 +8,7 @@
 + MV Hard Mode no longer stasis's pets. 
 + Ice Citidel State Pathing has been fixed to path to portals correctly 
 + Auto Consume Stat pots will now auto consume Clovers, Golden Clovers, Loot Teir & Loot Drop Potions
++ Auto Consume Campaign Tokens
 + BXP -> SEX
 + XP -> 50
 
@@ -25,6 +26,7 @@ Replace the resources.assets file there with the one from here.
 ## Reqs 
 ### Auto Consume Clovers Ect 
 Character Speed Hack must be set to -3% 
+Auto Drink Pots must be on 
 
 
 
