@@ -7,7 +7,7 @@
 + X Client v1 will now auto dodge invisible shots 
 + MV Hard Mode no longer stasis's pets. 
 + Ice Citidel State Pathing has been fixed to path to portals correctly 
-+ Auto Consume Stat pots will now auto consume Clovers, Golden Clovers, Loot Teir & Loot Drop Potions
++ Auto Consume Stat pots will now auto consume Clovers, Golden Clovers, Loot Teir, Loot Drop & Nil Drops
 + Auto Consume Campaign Tokens
 + BXP -> SEX
 + XP -> 50
